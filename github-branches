@@ -1,4 +1,8 @@
-git branch -a
+git checkout main
+Switched to branch 'main'
 
-* main
-bug-fix-typo
+git merge bug-fix-typo
+Updating 6d4f3gh..8h72sdf
+Fast-forward
+ README.md | 1 +
+ 1 file changed
