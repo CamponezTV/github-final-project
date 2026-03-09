@@ -4,9 +4,9 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Dev na Argosvig (ou seu nome)
+# Author: Arthur Camponez Marinho
 # Additional Authors:
-# <your GitHub username>
+# Camponez
 
 # Input:
 # p, principal amount
