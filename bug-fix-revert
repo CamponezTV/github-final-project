@@ -1,6 +1,14 @@
-curl https://api.github.com/repos/SEU_USUARIO/mcino-Introduction-to-Git-and-GitHub/pulls
+curl https://api.github.com/repos/CamponezTV/mcino-Introduction-to-Git-and-GitHub/pulls
 
 {
- "state": "open",
- "title": "Revert bug fix"
+ "head": {
+  "repo": {
+   "full_name": "CamponezTV/mcino-Introduction-to-Git-and-GitHub"
+  }
+ },
+ "base": {
+  "repo": {
+   "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+ }
 }
