@@ -1,4 +1,4 @@
-curl https://api.github.com/repos/camponeztv/mcino-Introduction-to-Git-and-GitHub
+curl https://api.github.com/repos/CamponezTV/mcino-Introduction-to-Git-and-GitHub
 
 {
  "fork": true,
